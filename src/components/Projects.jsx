@@ -23,7 +23,7 @@ export default function Projects() {
       title: "Fullstack E-Commerce",
       description: "A complete end-to-end shopping platform with user authentication, product catalog, cart management, and secure payment processing.",
       tech: ["React.js","Node.js","Express.js","MySQL"],
-      image:"./public/e-commerce.jpg",
+      image:"/e-commerce.jpg",
       demo: "https://browear.vercel.app/",
       github: "https://github.com/RajeshWebDev213/Browear-Frontend.git"
     },
@@ -31,7 +31,7 @@ export default function Projects() {
       title: "Media Vault",
       description: "A paid media locker application that secures digital content behind a paywall, integrating seamless monetization flows.",
       tech: ["Node.js", "Express", "PostreSQL", "React","Prisma"],
-      image:"./public/media-vault.jpg",
+      image:"/media-vault.jpg",
       demo: "https://media-vault-frontend-eight.vercel.app/",
       github: "https://github.com/RajeshWebDev213/media-vault-frontend.git"
     },
@@ -39,7 +39,7 @@ export default function Projects() {
       title: "Task Manager",
       description: "A productivity tool for organizing tasks, tracking progress, and managing daily workflows with a clean UI.",
       tech: ["React.js", "CSS", "Local Storage"],
-      image: "./public/task-management.jpg",
+      image: "/task-management.jpg",
       demo: "#",
       github: "https://github.com/RajeshWebDev213/task-manager-frontend.git"
     },
@@ -47,7 +47,7 @@ export default function Projects() {
       title: "Weather Application",
       description: "A real-time weather forecasting app utilizing third-party APIs to display accurate climate data for any location.",
       tech: ["JavaScript", "OpenWeather API", "CSS3"],
-      image:"./public/wheather.jpg",
+      image:"/wheather.jpg",
       demo: "https://weather-seven-sigma-14.vercel.app/",
       github: "https://github.com/RajeshWebDev213/Skytrackerapp.git"
     }
