@@ -33,14 +33,14 @@ export default function Contact() {
             <Mail size={18} />
             Say Hello
           </a>
-          <a 
-            href="/Rajesh_Podilapu_Full_Stack_Developer_Resume.pdf"
-            download={"/Rajesh_Podilapu_Full_Stack_Developer_Resume.pdf"}
-            className="flex items-center gap-2 px-6 py-3 w-full sm:w-auto rounded-lg bg-white dark:bg-[#0a0a0a] text-slate-900 dark:text-white font-medium border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 transition-colors justify-center shadow-sm"
-          >
-            <Download size={18} />
-            Download Resume
-          </a>
+ <a
+  href="/Rajesh_Podilapu_Full_Stack_Developer_Resume.pdf"
+  download="Rajesh_Podilapu_Full_Stack_Developer_Resume.pdf"
+  className="flex items-center gap-2 px-6 py-3 w-full sm:w-auto rounded-lg bg-white dark:bg-[#0a0a0a] text-slate-900 dark:text-white font-medium border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 transition-colors justify-center shadow-sm"
+>
+  <Download size={18} />
+  Download Resume
+</a>
         </div>
         
         <div className="flex items-center justify-center gap-6">
